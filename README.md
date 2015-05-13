@@ -1,9 +1,7 @@
 # Go on hardware
 
-I (Burcu Dogan) originally became a Go user to rewrite my hardware
-controllers in a simple, non-fragmented and solid language. This repo
-is a directory of tools, packages and tutorials to let you introduce
-Go in your hardware projects.
+This repo is a directory of tools, packages and tutorials to let
+you introduce Go in your hardware projects.
 
 ## Why Go?
 
@@ -30,3 +28,7 @@ the community works to fill that gap.
 ### Controllers, robotics, etc
 ### Signal processing and graphics
 ### Mobile
+
+Contributions are welcome, please fork and open a PR if you see
+a missing package, tutorial, etc.
+
