@@ -26,7 +26,9 @@ the community works to fill that gap.
 ## Packages
 
 ### Controllers, robotics, etc
-### Signal processing and graphics
+### Signal processing, computer vision, graphics
+    * [go-gl](https://github.com/go-gl) OpenGL bindings for Go.
+    * [go-opencv](https://github.com/lazywei/go-opencv) OpenVM bindings for Go.
 ### Mobile
 
 Contributions are welcome, please fork and open a PR if you see
