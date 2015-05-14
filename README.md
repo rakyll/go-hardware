@@ -1,4 +1,4 @@
-# Go on hardware
+# Go + hardware
 
 This repo is a directory of tools, packages and tutorials to let
 you introduce Go in your hardware projects.
