@@ -29,6 +29,8 @@ the community works to fill that gap.
 ### Signal processing, computer vision, graphics
     * [go-gl](https://github.com/go-gl) OpenGL bindings for Go.
     * [go-opencv](https://github.com/lazywei/go-opencv) OpenVM bindings for Go.
+### Networking
+    * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
 ### Mobile
 
 Contributions are welcome, please fork and open a PR if you see
