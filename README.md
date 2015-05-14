@@ -26,6 +26,8 @@ the community works to fill that gap.
 ## Packages
 
 ### Controllers, robotics, etc
+    * [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
+    * [embd](http://embd.io/) - Embedded programming frameworking for Go.
 ### Signal processing, computer vision, graphics
     * [go-gl](https://github.com/go-gl) OpenGL bindings for Go.
     * [go-opencv](https://github.com/lazywei/go-opencv) OpenVM bindings for Go.
