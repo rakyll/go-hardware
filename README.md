@@ -26,13 +26,16 @@ the community works to fill that gap.
 ## Packages
 
 ### Controllers, robotics, etc
-    * [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
-    * [embd](http://embd.io/) - Embedded programming frameworking for Go.
+* [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
+* [embd](http://embd.io/) - Embedded programming framework for Go.
+
 ### Signal processing, computer vision, graphics
-    * [go-gl](https://github.com/go-gl) OpenGL bindings for Go.
-    * [go-opencv](https://github.com/lazywei/go-opencv) OpenVM bindings for Go.
+* [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
+* [go-opencv](https://github.com/lazywei/go-opencv) - OpenVM bindings for Go.
+
 ### Networking
-    * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
+* [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
+
 ### Mobile
 
 Contributions are welcome, please fork and open a PR if you see
