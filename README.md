@@ -32,9 +32,13 @@ the community works to fill that gap.
 * [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
 * [embd](http://embd.io/) - Embedded programming framework for Go.
 
-### Signal processing, computer vision, graphics
+### Signal processing, computer vision, graphics, media
 * [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
 * [go-opencv](https://github.com/lazywei/go-opencv) - OpenVM bindings for Go.
+* [go-sox](https://github.com/krig/go-sox) - SoX bindings for Go.
+* [portaudio](https://code.google.com/p/portaudio-go/) - PortAudio bindings for Go.
+* [portmidi](https://github.com/rakyll/portmidi) - PortMidi bindings for Go.
+* [go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) bindings for Go.
 
 ### Networking
 * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
