@@ -31,6 +31,7 @@ the community works to fill that gap.
 ### Controllers, robotics, etc
 * [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
 * [embd](http://embd.io/) - Embedded programming framework for Go.
+* [godrone](http://godoc.org/github.com/felixge/godrone/) - High level Parrot AR Drone 2.0 framework written in Go.
 
 ### Signal processing, computer vision, graphics, media
 * [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
