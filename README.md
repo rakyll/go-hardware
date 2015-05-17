@@ -45,6 +45,7 @@ the community works to fill that gap.
 
 ### Networking
 * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
+* [gatt](https://github.com/paypal/gatt) - Provides a Bluetooth Low Energy GATT implementation.
 
 ### Mobile
 
