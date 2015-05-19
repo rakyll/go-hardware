@@ -31,7 +31,7 @@ the community works to fill that gap.
 ### Controllers, robotics, etc
 * [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
 * [embd](http://embd.io/) - Embedded programming framework for Go.
-* [fadecandy](https://github.com/scanlime/fadecandy) - Dithering OPC pixel controller
+* [fadecandy](https://github.com/scanlime/fadecandy) - Dithering OPC-based LED controller
 * [godrone](http://godoc.org/github.com/felixge/godrone/) - High level Parrot AR Drone 2.0 framework written in Go.
 * [launchpad](https://github.com/rakyll/launchpad) - High level controller library for Novation Launchpad.
 * [littlebits](https://github.com/rakyll/littlebits) - littleBits controller for Go. It requires [USB I/O](http://littlebits.cc/bits/usb-io) module.
