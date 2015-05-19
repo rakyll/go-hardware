@@ -34,7 +34,8 @@ the community works to fill that gap.
 * [godrone](http://godoc.org/github.com/felixge/godrone/) - High level Parrot AR Drone 2.0 framework written in Go.
 * [launchpad](https://github.com/rakyll/launchpad) - High level controller library for Novation Launchpad.
 * [littlebits](https://github.com/rakyll/littlebits) - littleBits controller for Go. It requires [USB I/O](http://littlebits.cc/bits/usb-io) module.
-* [hwio](https://github.com/mrmorphic/hwio) - hardware library for ARM boards such as Raspberry Pi and BeagleBone, loosely based on Arduino.
+* [hwio](https://github.com/mrmorphic/hwio) - Hardware library for ARM boards such as Raspberry Pi and BeagleBone, loosely based on Arduino.
+* [go-lepton](https://github.com/maruel/go-lepton) - Streams images taken on a FLIR Lepton connected to a Raspberry Pi SPI port to over via WebSockets via embedded HTTP server.
 
 ### Signal processing, computer vision, graphics, media
 * [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
