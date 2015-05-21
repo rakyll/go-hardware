@@ -46,6 +46,7 @@ the community works to fill that gap.
 * [portaudio](https://code.google.com/p/portaudio-go/) - PortAudio bindings for Go.
 * [portmidi](https://github.com/rakyll/portmidi) - PortMidi bindings for Go.
 * [go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) bindings for Go.
+* [openvg](https://github.com/ajstarks/openvg) - 2D Graphics library wrapping the OpenVG API
 
 ### Networking
 * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
