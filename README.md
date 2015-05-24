@@ -41,7 +41,7 @@ the community works to fill that gap.
 ### Signal processing, computer vision, graphics, media
 * [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
 * [go-opc](https://github.com/kellydunn/go-opc) - Open Pixel Control bindings for Go.
-* [go-opencv](https://github.com/lazywei/go-opencv) - OpenVM bindings for Go.
+* [go-opencv](https://github.com/lazywei/go-opencv) - OpenCV bindings for Go.
 * [go-sox](https://github.com/krig/go-sox) - SoX bindings for Go.
 * [portaudio](https://code.google.com/p/portaudio-go/) - PortAudio bindings for Go.
 * [portmidi](https://github.com/rakyll/portmidi) - PortMidi bindings for Go.
