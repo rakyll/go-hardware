@@ -23,7 +23,8 @@ the community works to fill that gap.
 
 ## Tutorials
 
-* [An introduction to cross compilation with Go](http://dave.cheney.net/2013/07/09/an-introduction-to-cross-compilation-with-go-1-1)
+* (Go 1.5 and above) [Cross complation guide](https://medium.com/@rakyll/go-1-5-cross-compilation-488092ba44ec)
+* (Go 1.4 and below) [Cross complation guide](http://dave.cheney.net/2013/07/09/an-introduction-to-cross-compilation-with-go-1-1)
 * [Go on ARM tips, known issues and success stories](https://github.com/golang/go/wiki/GoArm)
 
 ## Packages
