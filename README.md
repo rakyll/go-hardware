@@ -51,12 +51,14 @@ the community works to fill that gap.
 * [portmidi](https://github.com/rakyll/portmidi) - PortMidi bindings for Go.
 * [go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) bindings for Go.
 * [openvg](https://github.com/ajstarks/openvg) - 2D Graphics library wrapping the OpenVG API
+* [lirc] (https://github.com/chbmuc/lirc) - Go Client for Linux Infra-red Remote Control. Allows sending and receiving IR commands.
 
 ### Networking, peripheral communications
 * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
 * [gatt](https://github.com/paypal/gatt) - Provides a Bluetooth Low Energy GATT implementation.
 * [go.hid](https://github.com/GeertJohan/go.hid) - Provides communication with USB Human Interface Devices.
 * [goble](https://github.com/MarinX/goble) - Bluetooth Low Enery (HM10) module for Go
+* [serial] (https://github.com/tarm/serial) - Serial Port Communication Package for Go
 
 ### Mobile
 
