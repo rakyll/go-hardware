@@ -29,7 +29,7 @@ the community works to fill that gap.
 
 ## Packages
 
-### Controllers, robotics, etc
+### Controllers
 * [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
 * [go-gpio](https://github.com/stianeikeland/go-rpio) - GPIO for Go, doesn't require cgo.
 * [embd](http://embd.io/) - Embedded programming framework for Go.
