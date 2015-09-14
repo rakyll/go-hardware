@@ -42,6 +42,7 @@ the community works to fill that gap.
 * [go-embedded](https://github.com/SpaceLeap/go-embedded) - Embedded Linux support for I2C, SPI, PWM, GPIO, ADC
 * [go-beaglebone](https://github.com/SpaceLeap/go-beaglebone) - Go package for the BeagleBone open source hardware
 * [go-mavlink](https://github.com/SpaceLeap/go-mavlink) - MAVLink protocol implementation for Go (MAVLink is used to control drones)
+* [joystick](https://github.com/SimulatedSimian/joystick) - a polled API to read the state of an attached joystick.
 
 ### Signal processing, computer vision, graphics, media
 * [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
