@@ -59,7 +59,7 @@ the community works to fill that gap.
 * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
 * [gatt](https://github.com/paypal/gatt) - Provides a Bluetooth Low Energy GATT implementation.
 * [go.hid](https://github.com/GeertJohan/go.hid) - Provides communication with USB Human Interface Devices.
-* [goble](https://github.com/MarinX/goble) - Bluetooth Low Enery (HM10) module for Go
+* [goble](https://github.com/MarinX/goble) - Bluetooth Low Energy (HM10) module for Go
 * [serial] (https://github.com/tarm/serial) - Serial Port Communication Package for Go
 
 ### Mobile
