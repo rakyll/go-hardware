@@ -61,6 +61,7 @@ the community works to fill that gap.
 * [go.hid](https://github.com/GeertJohan/go.hid) - Provides communication with USB Human Interface Devices.
 * [goble](https://github.com/MarinX/goble) - Bluetooth Low Energy (HM10) module for Go
 * [serial] (https://github.com/tarm/serial) - Serial Port Communication Package for Go
+* [firmata](https://github.com/kraman/go-firmata) - Firmata client for Go
 
 ### Mobile
 
