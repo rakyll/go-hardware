@@ -5,21 +5,42 @@ you introduce Go in your hardware projects.
 
 ## Why Go?
 
-* Great tooling that comes with a strong cross compilation story.
-* Builtin concurrency primitives in Go is making it easier to write
-concurrent programs.
-* Go runs on ARM boards. ARM boards are getting cheaper, making
-it easier for production designs to include them. Higher-level
-languages have more opportunities than ever on hardware projects.
-* Go is garbage collected but you can still use it to write
-non-realtime or networked controllers. There are plenty of
-Go users who program their experimental drone flight control
-software in Go, it's OK for prototyping.
-* Go's network stack is maintained well. Standard library might
-be missing higher level implementations for P2P protocols, but
-the community works to fill that gap.
-* Writing C bindings in Go is a pleasure with
-[cgo](https://golang.org/cmd/cgo/).
+* Go can target platforms and architectures that are primarily in the scope of non-real time embedded operating systems.
+    - ARMv5, ARMv6, ARMv7 and ARMv8 support for Linux
+    - ARMv7, ARMv8, x86 support for Android
+    - Experimental OpenWRT
+
+* Out-of-the-box cross compilation story.
+    - E.g. Run `GOOS=linux GOARCH=arm go build` to build a binary for ARM/linux boards from a Mac or Windows machine. No other configuration is required.
+
+* Built-in concurrency primitives in Go is making it easier to write concurrent programs.
+    - Strong advantage in implementing hardware controllers.
+    - Strong advantage in implementing networking devices.
+
+* Go is garbage collected language but the garbage collector footprint has been improved significantly since Go 1.4. The pause times are being targetted to be 10ms or less even with large heaps and is not a significant disadvantage on non-real time operating systems -- the preemptive nature of the OS scheduler is more of a major problem than pause times.
+
+* Go's network stack is high quality and maintained well. Networking is a core component in IoT.
+
+* Go provides out-of-the-box HTTP, HTTPS and HTTP/2 client/server implementations.
+    - Standard library might be missing higher level implementations for P2P protocols, but the community works to fill that gap.
+    - Community is also investing time to implement newer IoT-targeting networking protocols such as COAP.
+
+* Writing C bindings in Go is very trivial with cgo unlike other high level programming languages like Python and Java. It is so much easier to depend on an existing C/C++ library from the Go context.
+    - E.g. [portmidi](https://github.com/rakyll/portmidi/blob/master/portmidi.go) bindings. See the source code to see how you can mix and match Go and C code in the same Go file.
+
+* C-like syntax enables the existing IoT/embedded programmers (mostly fluent in C) to read and write Go without much knowledge of the language.
+
+* Go programs compile to static binaries and doesn’t require a runtime on the host (e.g. a VM). Deployment is copy/pasting a binary.
+
+* Go had strong community figures who worked on the hardware aspects from the early days.
+    - Gobot made its debut at the first GopherCon.
+    - There are numerous libraries and frameworks around hardware and robotics already contributed by the community. A list can be found at go-hardware.
+
+* Go is efficient, fast and has low memory footprint.
+
+* Code reuse between server and client (connected device or mobile).
+    - E.g. gRPC Go is working out of the box on servers, Android, iOS and embedded Linux.
+
 
 ## Tutorials
 
