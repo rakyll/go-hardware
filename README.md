@@ -64,6 +64,7 @@ you introduce Go in your hardware projects.
 * [go-beaglebone](https://github.com/SpaceLeap/go-beaglebone) - Go package for the BeagleBone open source hardware
 * [go-mavlink](https://github.com/SpaceLeap/go-mavlink) - MAVLink protocol implementation for Go (MAVLink is used to control drones)
 * [joystick](https://github.com/SimulatedSimian/joystick) - a polled API to read the state of an attached joystick.
+* [emgo](https://github.com/ziutek/emgo) - Go-like language for programming embedded systems (e.g. STM32 MCU).
 
 ### Signal processing, computer vision, graphics, media
 * [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
