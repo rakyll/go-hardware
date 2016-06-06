@@ -51,6 +51,7 @@ you introduce Go in your hardware projects.
 ## Packages
 
 ### Controllers
+* [devices](https://github.com/goiot/devices) - A repository of high-level device/sensor packages for Go.
 * [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
 * [go-gpio](https://github.com/stianeikeland/go-rpio) - GPIO for Go, doesn't require cgo.
 * [embd](http://embd.io/) - Embedded programming framework for Go.
