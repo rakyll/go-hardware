@@ -59,7 +59,7 @@ you introduce Go in your hardware projects.
 * [godrone](http://godoc.org/github.com/felixge/godrone/) - High level Parrot AR Drone 2.0 framework written in Go.
 * [launchpad](https://github.com/rakyll/launchpad) - High level controller library for Novation Launchpad.
 * [littlebits](https://github.com/rakyll/littlebits) - littleBits controller for Go. It requires [USB I/O](http://littlebits.cc/bits/usb-io) module.
-* [piCamera](httos://github.com/technomancers/piCamera) - Capture the stream of Images for a Raspberry Pi Camera in GoLang
+* [piCamera](https://github.com/technomancers/piCamera) - Capture the stream of Images for a Raspberry Pi Camera in GoLang
 * [hwio](https://github.com/mrmorphic/hwio) - Hardware library for ARM boards such as Raspberry Pi and BeagleBone, loosely based on Arduino.
 * [go-lepton](https://github.com/maruel/go-lepton) - Streams images taken on a FLIR Lepton connected to a Raspberry Pi SPI port to over via WebSockets via embedded HTTP server.
 * [go-embedded](https://github.com/SpaceLeap/go-embedded) - Embedded Linux support for I2C, SPI, PWM, GPIO, ADC
@@ -77,14 +77,14 @@ you introduce Go in your hardware projects.
 * [portmidi](https://github.com/rakyll/portmidi) - PortMidi bindings for Go.
 * [go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) bindings for Go.
 * [openvg](https://github.com/ajstarks/openvg) - 2D Graphics library wrapping the OpenVG API
-* [lirc] (https://github.com/chbmuc/lirc) - Go Client for Linux Infra-red Remote Control. Allows sending and receiving IR commands.
+* [lirc](https://github.com/chbmuc/lirc) - Go Client for Linux Infra-red Remote Control. Allows sending and receiving IR commands.
 
 ### Networking, peripheral communications
 * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
 * [gatt](https://github.com/paypal/gatt) - Provides a Bluetooth Low Energy GATT implementation.
 * [go.hid](https://github.com/GeertJohan/go.hid) - Provides communication with USB Human Interface Devices.
 * [goble](https://github.com/MarinX/goble) - Bluetooth Low Energy (HM10) module for Go
-* [serial] (https://github.com/tarm/serial) - Serial Port Communication Package for Go
+* [serial](https://github.com/tarm/serial) - Serial Port Communication Package for Go
 * [firmata](https://github.com/kraman/go-firmata) - Firmata client for Go
 
 ### Mobile
