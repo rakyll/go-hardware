@@ -67,6 +67,7 @@ you introduce Go in your hardware projects.
 * [go-mavlink](https://github.com/SpaceLeap/go-mavlink) - MAVLink protocol implementation for Go (MAVLink is used to control drones)
 * [joystick](https://github.com/SimulatedSimian/joystick) - a polled API to read the state of an attached joystick.
 * [emgo](https://github.com/ziutek/emgo) - Go-like language for programming embedded systems (e.g. STM32 MCU).
+* [go-rpi-rgb-led-matrix](https://github.com/mcuadros/go-rpi-rgb-led-matrix) - Controlling up to three chains of 32x32 or 16x32 RGB LED displays using Raspberry Pi GPIO
 
 ### Signal processing, computer vision, graphics, media
 * [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
