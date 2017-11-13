@@ -68,6 +68,8 @@ you introduce Go in your hardware projects.
 * [joystick](https://github.com/SimulatedSimian/joystick) - a polled API to read the state of an attached joystick.
 * [emgo](https://github.com/ziutek/emgo) - Go-like language for programming embedded systems (e.g. STM32 MCU).
 * [go-rpi-rgb-led-matrix](https://github.com/mcuadros/go-rpi-rgb-led-matrix) - Controlling up to three chains of 32x32 or 16x32 RGB LED displays using Raspberry Pi GPIO
+* [go-rpi-ws281x](https://github.com/mcuadros/go-rpi-ws281x) - Go bindings for Raspberry Pi PWM library for WS281X LEDs Edit
+
 
 ### Signal processing, computer vision, graphics, media
 * [go-gl](https://github.com/go-gl) - OpenGL bindings for Go.
