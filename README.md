@@ -92,6 +92,7 @@ you introduce Go in your hardware projects.
 * [firmata](https://github.com/kraman/go-firmata) - Firmata client for Go
 * [periph](https://periph.io/) - Peripherals I/O in Go
 * [go-ckb](https://gitlab.com/dnaf/go-ckb) - Corsair ckb-daemon communication in Go
+* [ble](https://github.com/go-ble/ble) - Bluetooth Low Energy communication wrapper for Linux/macOS.
 
 ### Mobile
 
