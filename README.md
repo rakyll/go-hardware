@@ -81,6 +81,7 @@ you introduce Go in your hardware projects.
 * [go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) bindings for Go.
 * [openvg](https://github.com/ajstarks/openvg) - 2D Graphics library wrapping the OpenVG API
 * [lirc](https://github.com/chbmuc/lirc) - Go Client for Linux Infra-red Remote Control. Allows sending and receiving IR commands.
+* [gocv](https://gocv.io) - OpenCV 3+ bindings for Go. Also supports OpenVINO.
 
 ### Networking, peripheral communications
 * [mdns](https://github.com/hashicorp/mdns) - mDNS server and client implementation in Go. Multicast DNS can be used to discover services and message on the local network without the use of an authoritative DNS server.
