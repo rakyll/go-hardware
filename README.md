@@ -90,6 +90,7 @@ you introduce Go in your hardware projects.
 * [serial](https://github.com/tarm/serial) - Serial Port Communication Package for Go
 * [firmata](https://github.com/kraman/go-firmata) - Firmata client for Go
 * [periph](https://periph.io/) - Peripherals I/O in Go
+* [go-ckb](https://gitlab.com/dnaf/go-ckb) - Corsair ckb-daemon communication in Go
 
 ### Mobile
 
