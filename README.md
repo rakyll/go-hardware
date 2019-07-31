@@ -94,9 +94,9 @@ you introduce Go in your hardware projects.
 * [go-ckb](https://gitlab.com/dnaf/go-ckb) - Corsair ckb-daemon communication in Go
 * [ble](https://github.com/go-ble/ble) - Bluetooth Low Energy communication wrapper for Linux/macOS.
 
-### Mobile
-
-TODO
+### Mobile (Go 1.5 or above)
+* [Native applications (Android and iOS)](https://github.com/golang/go/wiki/Mobile#native-applications)
+* [SDK applications](https://github.com/golang/go/wiki/Mobile#sdk-applications-and-generating-bindings)
 
 Contributions are welcome, please fork and open a PR if you see
 a missing package, tutorial, etc.
